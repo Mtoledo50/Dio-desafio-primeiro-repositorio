@@ -1,0 +1,1 @@
+git clone (mais o link) ele vai trazer o que tiver no github para p pc local

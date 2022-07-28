@@ -1,0 +1,1 @@
+esse comando envia todos os arquivos locais para a nuvem.. para o github

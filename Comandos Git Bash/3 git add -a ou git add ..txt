@@ -1,0 +1,2 @@
+adiciona todos os arquivos na base que será transferida para o git hub
+ git add. ou git -A
